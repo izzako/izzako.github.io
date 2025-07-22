@@ -31,9 +31,6 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-sass:
-  sass_dir: _sass
-  style: compressed
 
 include:
   - _pages
@@ -66,8 +63,10 @@ author:
   avatar : "/assets/images/IMG_5110.jpg"
   bio    : "Research Assistant <br> Monash University, Indonesia" #
   location  : "Jakarta, Indonesia"
-  email_display: "musa[dot]wijanarko[at]monash[dot]edu"
   links:
+    - label: "musa[dot]wijanarko[at]monash[dot]edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:musa.wijanarko@monash.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/musa-izzanardi-wijanarko/"
