@@ -4,12 +4,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "About"
+title: "Musa Izzanardi Wijanarko - Izzan"
 permalink: /
 
 ---
+Hello, this is Izzan.
 
-I am a research assistant at Monash University, Indonesia under Associate Professor Derry Wijaya. I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
+I am a research assistant at Monash University, Indonesia under Associate Professor [Derry Wijaya](https://www.monash.edu/indonesia/about/academic-staff/derry-wijaya). I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
 
 # News
 - News 1
