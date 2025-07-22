@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "Musa Izzanardi Wijanarko - Izzan"
+title: "Musa Izzanardi Wijanarko"
 permalink: /
 
 ---
