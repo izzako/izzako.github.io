@@ -49,6 +49,8 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - bibliography/
 
 # Plugins (previously gems:)
 plugins:
@@ -63,9 +65,8 @@ author:
   name   : "Musa Izzanardi Wijanarko"
   avatar : "/assets/images/IMG_5110.jpg"
   bio    : "Research Assistant <br> Monash University, Indonesia" #
+  location  : "Jakarta, Indonesia"
   links:
-    - label: "Jakarta, Indonesia"
-      icon: "fas fa-fw fa-map-marker-alt"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/musa-izzanardi-wijanarko/"
@@ -89,13 +90,12 @@ footer:
       url: "https://scholar.google.com/citations?user=dVNAi4QAAAAJ&hl=en"
 
 defaults:
-
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 

@@ -9,7 +9,7 @@ permalink: /
 
 ---
 
-I am a research assistant at Monash University, Indonesia under Associate Professor Derry Wijaya. I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18s.
+I am a research assistant at Monash University, Indonesia under Associate Professor Derry Wijaya. I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
 
 # News
 - News 1
