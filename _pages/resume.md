@@ -3,20 +3,21 @@ permalink: /resume/
 title: "Musa Izzanardi Wijanarko"
 author_profile: False
 toc: true
+toc_label: "Profile"
+toc_sticky: true
 ---
 
-###### [ izzako.github.io](https://izzako.github.io) | musa[dot]wijanarko[at]monash[dot]edu
+[izzako.github.io](https://izzako.github.io) | musa[dot]wijanarko[at]monash[dot]edu
 
 
-Education
----------
+# Education
 
 **B.Sc. in Mathematics, Bandung Institute of Technology, Indonesia**\
 (Aug 2017 - Jul 2021)
 
 
-Research & Work Experience
----------
+# Research & Work Experience
+
 **Research Assistant, Monash University, Indonesia**\
 (Sep 2023 - Present, Indonesia)
 
@@ -33,14 +34,14 @@ Research & Work Experience
 - Built search engine for telemarketing database.
 - Built ETL Pipelines for bank audit reporting.
 
-Professional Activities
-------
+# Professional Activities
+
 **Conference Reviewer:** EMNLP 2025
 
 **Lecturer Assistants:** Helping lecturers managing their courses during my undergraduate study (Mathematics I, Mathematics II, Simulation and Mathematical Computation, Linear Algebra).
 
-Skills
-------
+# Skills
+
 **Programming:** Docker, Python, MATLAB, SQL, R, git, HTML/CSS
 
 **Python Libraries:** Pytorch, TensorFlow, Sklearn, Huggingface, etc.
