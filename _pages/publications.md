@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 author_profile: False
-classes: wide
+classes: narrow-center
 ---
 
 A more complete and updated publications would be on my [google
