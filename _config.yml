@@ -64,9 +64,9 @@ author:
   bio    : "Research Assistant <br> Monash University, Indonesia" #
   location  : "Jakarta, Indonesia"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:musa.wijanarko@monash.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "mailto:musa.wijanarko@monash.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/musa-izzanardi-wijanarko/"

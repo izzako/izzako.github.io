@@ -7,7 +7,7 @@ toc_label: "Profile"
 toc_sticky: true
 ---
 
-[izzako.github.io](https://izzako.github.io) | musa[dot]wijanarko[at]monash[dot]edu
+[izzako.github.io](https://izzako.github.io) \| musa[dot]wijanarko[at]monash[dot]edu
 
 
 # Education
@@ -27,7 +27,7 @@ toc_sticky: true
   - Hate Speech Monitoring in 2024 Indonesian Election
   - Topic Modeling using Transformer: *2023 Narrative Trends in Energy Transitions on Online News and Social Media*
   
-**Data Analyst & Data Engineer, Ganesha79** 
+**Data Analyst & Data Engineer, Ganesha79**\
 (Aug 2021 - Jul 2023, Indonesia)
 
 - Developed mobile banking fraud detection systems.
