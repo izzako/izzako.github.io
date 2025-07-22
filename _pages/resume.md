@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: "Resume"
+title: "Musa Izzanardi Wijanarko"
 author_profile: False
 ---
 
@@ -26,7 +26,7 @@ Research & Work Experience
   - Topic Modeling using Transformer: *2023 Narrative Trends in Energy Transitions on Online News and Social Media*
   
 **Data Analyst & Data Engineer, Ganesha79** 
-(2021 - 2023, Indonesia)
+(Aug 2021 - Jul 2023, Indonesia)
 
 - Developed mobile banking fraud detection systems.
 - Built search engine for telemarketing database.
