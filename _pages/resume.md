@@ -2,6 +2,7 @@
 permalink: /resume/
 title: "Musa Izzanardi Wijanarko"
 author_profile: False
+toc: true
 ---
 
 ###### [ izzako.github.io](https://izzako.github.io) | musa[dot]wijanarko[at]monash[dot]edu
