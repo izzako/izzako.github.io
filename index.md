@@ -17,5 +17,5 @@ My research interests consists of multilinguality, preference tuning, computatio
 Contact: musa[dot]wijanarko[at]monash[dot]edu
 
 # News
-- **[2025-05-15]** Two of my papers got accepted into ACL 2025, see you in Vienna 🇦🇹 !!
-- **[2024-09-30]** My Paper got accepted into EMNP 2024 System Demonstrations, I'll be attending virtually :D
+- **[May 2025]** Two of my papers got accepted into ACL 2025, see you in Vienna 🇦🇹 !!
+- **[Sep 2024]** My Paper got accepted into EMNP 2024 System Demonstrations, I'll be attending virtually :D
