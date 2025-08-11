@@ -12,7 +12,7 @@ Hello, this is Izzan.
 
 I am a research assistant at Monash University, Indonesia under Associate Professor [Derry Wijaya](https://www.monash.edu/indonesia/about/academic-staff/derry-wijaya). I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
 
-My research interests consists of multilinguality, preference tuning, computational social science, and yeah tbh the range is pretty wide.
+My research interests consists of efficiency, multilinguality, preference tuning, and computational social science.
 
 Contact: musa[dot]wijanarko[at]monash[dot]edu
 
