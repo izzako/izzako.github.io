@@ -34,9 +34,9 @@ toc_sticky: true
 - Built search engine for telemarketing database.
 - Built ETL Pipelines for bank audit reporting.
 
-# Professional Activities
+# Academic Services & Teaching
 
-**Conference Reviewer:** EMNLP 2025
+**Conference Reviewer:** EMNLP 2025, IJCNLP-AACL 2025.
 
 **Lecturer Assistants:** Helping lecturers managing their courses during my undergraduate study (Mathematics I, Mathematics II, Simulation and Mathematical Computation, Linear Algebra).
 
