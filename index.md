@@ -18,4 +18,4 @@ Contact: musa[dot]wijanarko[at]monash[dot]edu
 
 # News
 - **[May 2025]** Two of my papers got accepted into ACL 2025, see you in Vienna 🇦🇹 !!
-- **[Sep 2024]** My Paper got accepted into EMNP 2024 System Demonstrations, I'll be attending virtually :D
+- **[Sep 2024]** My Paper got accepted into EMNLP 2024 System Demonstrations, I'll be attending virtually 🇺🇸 :D
