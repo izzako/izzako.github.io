@@ -8,14 +8,15 @@ title: "Musa Izzanardi Wijanarko"
 permalink: /
 
 ---
-Hello, this is Izzan.
+Hello, this is Izzan. I'm currently working as an ML/AI Engineer.
 
-I am a research assistant at Monash University, Indonesia under Associate Professor [Derry Wijaya](https://derrywijaya.github.io/). I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
+Previously a research assistant at Monash University, Indonesia under Associate Professor [Derry Wijaya](https://derrywijaya.github.io/). I obtained my Bachelor of Science in Mathematics from Institut Teknologi Bandung (ITB) in 2021 at the age of 18.
 
-My research interests consists of multilinguality, preference tuning, and computational social science.
+My research interests are in multilinguality and computational social science.
 
-Contact: musa[dot]wijanarko[at]monash[dot]edu
+Contact: musa[dot]izzanardi[at]gmail[dot]com
 
 # News
-- **[May 2025]** Two of my papers got accepted into ACL 2025, see you in Vienna 🇦🇹 !!
+- **[Sep 2026]** Two of my paper got accepted as findings at AACL-IJCNLP 2026 🇨🇳
+- **[May 2025]** Two of my paper got accepted into ACL 2025, see you in Vienna 🇦🇹 !!
 - **[Sep 2024]** My Paper got accepted into EMNLP 2024 System Demonstrations, I'll be attending virtually 🇺🇸 :D

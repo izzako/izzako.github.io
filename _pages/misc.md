@@ -5,7 +5,7 @@ author_profile: False
 ---
 
 Since I have a wide range of interests outside of research *as well*, I’ll divide them into two categories: outdoor activities and creative hobbies.
+ 
+Outdoors: Bouldering, hiking, gym, running, ice skating, and billiards.
 
-For outdoor activities, I enjoy hiking, working out, running, ice skating, playing billiards, and bouldering.
-
-As for creative hobbies, I can play instruments like piano and guitar. Sometimes, I also explore sound engineering, including mixing, mastering, and music production. I also enjoy drawing, both traditionally (sketches) or digital painting.
+Hobbies: I can play instruments like piano and guitar. Sometimes, I also explore dj-ing and sound engineering: including mixing-mastering, and music production. I also enjoy drawing, both traditionally (sketches) or digital painting.
